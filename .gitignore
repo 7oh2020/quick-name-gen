@@ -1,0 +1,7 @@
+dist
+
+.devcontainer/.env
+.devcontainer/.env.*
+
+*.log
+*.txt
